@@ -1,75 +1,34 @@
-# Cybersecurity Progress
+# Progress
 
-## Current Stage
+## Beginner — First 30 Days
 
-**Foundation**
+### Week 1 — Linux Basics
 
----
+- [x] Getting Started with Linux
+- [x] Save a Terminal Banner
+- [x] Basic File Operations in Linux
+- [ ] Get Help on Linux Commands
+- [ ] Archive a Draft File
+- [ ] Linux User Group and File Permissions
+- [ ] Onboard a Practice User
+- [ ] Complete Linux Journey fundamentals
+- [ ] Complete OverTheWire Bandit
 
-## Linux
+### Week 2 — Networking Basics
 
-- [ ] Linux fundamentals
-- [ ] File system
-- [ ] Users and permissions
-- [ ] Command line
-- [ ] Shell basics
-- [ ] Practice labs
+- [ ] Professor Messer Network+ fundamentals
 
-## Networking
+### Week 3 — Security Fundamentals
 
-- [ ] OSI Model
-- [ ] TCP/IP
-- [ ] Ports and protocols
-- [ ] IP addressing
-- [ ] Subnetting
-- [ ] DNS
-- [ ] HTTP/HTTPS
-- [ ] Wireshark
+- [ ] TryHackMe Pre-Security
 
-## Security Fundamentals
+### Week 4 — First Hands-on Hacking
 
-- [ ] CIA Triad
-- [ ] Threats
-- [ ] Vulnerabilities
-- [ ] Common attacks
-- [ ] Authentication
-- [ ] Cryptography
+- [ ] TryHackMe Complete Beginner
 
-## Python
+## Statistics
 
-- [ ] Python fundamentals
-- [ ] Functions
-- [ ] Lists and dictionaries
-- [ ] File handling
-- [ ] Automation
-- [ ] Security scripting
-
-## Hands-on
-
-- [ ] TryHackMe
-- [ ] OverTheWire
-- [ ] Security labs
-
-## Projects
-
-- [ ] Project 1
-- [ ] Project 2
-- [ ] Project 3
-
----
-
-## Learning Log
-
-### Day 1
-**Topic:**  
-**What I learned:**  
-**What I practiced:**  
-**Evidence:**  
-**Notes:**  
-
-### Day 2
-**Topic:**  
-**What I learned:**  
-**What I practiced:**  
-**Evidence:**  
-**Notes:**  
+- Linux: 🔄 In Progress
+- Networking: ⬜ Not Started
+- Security Fundamentals: ⬜ Not Started
+- Hands-on Hacking: ⬜ Not Started
