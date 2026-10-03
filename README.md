@@ -1,45 +1,36 @@
 # Cybersecurity Journey
 
-My journey of learning cybersecurity through structured study, hands-on labs, projects, and practical security exercises.
+My hands-on journey learning cybersecurity from fundamentals to advanced security concepts.
 
 ## Goal
 
-Build a strong foundation in cybersecurity and gradually develop practical skills for real-world security work.
+Build strong cybersecurity fundamentals through structured learning, hands-on labs, practical exercises, and projects.
 
 ## Roadmap
 
-Following the ITSHAHIRX Cybersecurity Roadmap.
+1. Linux Basics
+2. Networking Basics
+3. Security Fundamentals
+4. First Hands-on Hacking
+5. Foundation Phase
+6. Technical Skills
+7. Specialization
+8. Advanced Topics
 
 ## Current Focus
 
-- Linux
-- Networking
-- Security Fundamentals
-- Python
-- Hands-on Labs
+🔐 **Linux Basics**
+
+Following the Ultimate Cybersecurity Mastery Roadmap.
 
 ## Progress
 
-- [ ] Foundation
-- [ ] Linux
-- [ ] Networking
-- [ ] Security Fundamentals
-- [ ] Python
-- [ ] Hands-on Security
-- [ ] Projects
-- [ ] Specialization
+See [Progress.md](Progress.md).
 
-## Practice Platforms
+## Learning Approach
 
-- TryHackMe
-- OverTheWire
-- HackerRank
-- Other platforms as required by the roadmap
-
-## Projects
-
-Projects will be added as I progress through the roadmap.
-
-## Notes
-
-All notes and write-ups are based on my own learning and practical work.
+- Learn the concept
+- Practice it hands-on
+- Document what I learned
+- Complete the relevant milestone
+- Move to the next topic
