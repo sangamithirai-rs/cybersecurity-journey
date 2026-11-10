@@ -2,90 +2,63 @@
 
 ## Current Focus: Network Fundamentals
 
-**Platform:** LetsDefend
-
+**Platform:** LetsDefend  
 **Status:** In Progress
 
-- [ ] Complete the Network Fundamentals course.
-- [ ] Understand the major networking concepts.
-- [ ] Complete practical exercises.
-- [ ] Review concepts independently.
-- [ ] Document important lessons.
+### Course Lessons
+
+- [x] About Network Fundamentals Course
+- [ ] Introduction to Network Fundamentals
+- [ ] Types of Networks
+- [ ] Network Topologies
+- [ ] OSI Reference Model
+- [ ] Network Devices
+- [ ] TCP/IP Model
+- [ ] IP Addressing Mechanism
+- [ ] Network Address Translation (NAT)
+- [ ] Network Fundamentals Quiz
+
+### Course Completion Criteria
+
+- [ ] Complete all lessons.
+- [ ] Understand the important concepts.
+- [ ] Complete the course quiz.
+- [ ] Review topics without relying on notes.
+- [ ] Document practical examples and key concepts.
+
+---
 
 ## Learning Roadmap
 
 ### 1. Network Fundamentals
-- [ ] IP addressing
-- [ ] OSI and TCP/IP models
-- [ ] TCP and UDP
-- [ ] Ports and protocols
-- [ ] DNS
-- [ ] HTTP and HTTPS
-- [ ] ARP and ICMP
-- [ ] NAT and VPN
-- [ ] Basic network troubleshooting
-
-*Add or adjust topics according to the actual LetsDefend syllabus.*
+Status: In Progress
 
 ### 2. Linux and Windows Fundamentals
-- [ ] Linux commands and navigation
-- [ ] Files and directories
-- [ ] Users and permissions
-- [ ] Windows fundamentals
-- [ ] Windows Event Viewer
-- [ ] Basic system logs
+Status: Not Started
 
 ### 3. Cybersecurity Fundamentals
-- [ ] CIA Triad
-- [ ] Threats and vulnerabilities
-- [ ] Malware fundamentals
-- [ ] Authentication and authorization
-- [ ] Common cyberattacks
-- [ ] Indicators of Compromise (IOCs)
+Status: Not Started
 
 ### 4. SOC and SIEM Fundamentals
-- [ ] Understand SOC operations
-- [ ] Understand SIEM
-- [ ] Log collection and analysis
-- [ ] Security alerts
-- [ ] Alert severity and prioritization
+Status: Not Started
 
 ### 5. Security Alert Investigation
-- [ ] Alert triage
-- [ ] Phishing investigation
-- [ ] IP and domain analysis
-- [ ] URL and file hash analysis
-- [ ] False-positive identification
-- [ ] Investigation documentation
+Status: Not Started
 
 ### 6. Incident Response
-- [ ] Detection
-- [ ] Containment
-- [ ] Eradication
-- [ ] Recovery
-- [ ] MITRE ATT&CK fundamentals
+Status: Not Started
 
 ### 7. Portfolio and Career Preparation
-- [ ] Complete practical SOC investigations
-- [ ] Write investigation reports
-- [ ] Build cybersecurity projects
-- [ ] Update GitHub portfolio
-- [ ] Prepare for SOC Analyst interviews
+Status: Not Started
+
+---
 
 ## Previous Learning
 
-Previously completed HTB Academy exercises:
+Previously completed Linux exercises:
 
 - [x] Getting Started with Linux
 - [x] Save a Terminal Banner
 - [x] Basic File Operations in Linux
 
 HTB Academy is no longer part of my active learning plan.
-
-## Progress Principles
-
-- Mark tasks complete only after finishing them.
-- Do not confuse watching a lesson with mastering a skill.
-- Practise independently.
-- Record evidence of practical work.
-- Update progress honestly.
